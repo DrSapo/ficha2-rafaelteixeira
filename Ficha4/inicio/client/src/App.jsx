@@ -10,7 +10,7 @@
 //
 // Tarefa 1: substitui este array vazio pelo array cards do teu server
 // (o que fizeste na aula 2).
-const cards = [];
+const cards = ["TigerShark","Star Dragon","Dark IceLion","UberJackal","Xue Hu"];
 
 function App() {
   return (
